@@ -1,0 +1,722 @@
+[
+  {
+    "clave": "001",
+    "descripcion": "Producto 1",
+    "precio": 42.01,
+    "clasificacion": "Clase 1",
+    "existencia": 20,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "002",
+    "descripcion": "Producto 2",
+    "precio": 47.78,
+    "clasificacion": "Clase 2",
+    "existencia": 43,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "003",
+    "descripcion": "Producto 3",
+    "precio": 24.18,
+    "clasificacion": "Clase 3",
+    "existencia": 32,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "004",
+    "descripcion": "Producto 4",
+    "precio": 49.08,
+    "clasificacion": "Clase 0",
+    "existencia": 18,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "005",
+    "descripcion": "Producto 5",
+    "precio": 32.77,
+    "clasificacion": "Clase 1",
+    "existencia": 42,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "006",
+    "descripcion": "Producto 6",
+    "precio": 29.72,
+    "clasificacion": "Clase 2",
+    "existencia": 44,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "007",
+    "descripcion": "Producto 7",
+    "precio": 12.45,
+    "clasificacion": "Clase 3",
+    "existencia": 32,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "008",
+    "descripcion": "Producto 8",
+    "precio": 19.14,
+    "clasificacion": "Clase 0",
+    "existencia": 49,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "009",
+    "descripcion": "Producto 9",
+    "precio": 48.2,
+    "clasificacion": "Clase 1",
+    "existencia": 22,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0010",
+    "descripcion": "Producto 10",
+    "precio": 42.59,
+    "clasificacion": "Clase 2",
+    "existencia": 52,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0011",
+    "descripcion": "Producto 11",
+    "precio": 55.34,
+    "clasificacion": "Clase 3",
+    "existencia": 14,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0012",
+    "descripcion": "Producto 12",
+    "precio": 17.74,
+    "clasificacion": "Clase 0",
+    "existencia": 38,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0013",
+    "descripcion": "Producto 13",
+    "precio": 13.25,
+    "clasificacion": "Clase 1",
+    "existencia": 29,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0014",
+    "descripcion": "Producto 14",
+    "precio": 51.87,
+    "clasificacion": "Clase 2",
+    "existencia": 23,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0015",
+    "descripcion": "Producto 15",
+    "precio": 36.88,
+    "clasificacion": "Clase 3",
+    "existencia": 19,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0016",
+    "descripcion": "Producto 16",
+    "precio": 27.06,
+    "clasificacion": "Clase 0",
+    "existencia": 23,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0017",
+    "descripcion": "Producto 17",
+    "precio": 46.13,
+    "clasificacion": "Clase 1",
+    "existencia": 28,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0018",
+    "descripcion": "Producto 18",
+    "precio": 38.68,
+    "clasificacion": "Clase 2",
+    "existencia": 9,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0019",
+    "descripcion": "Producto 19",
+    "precio": 30.67,
+    "clasificacion": "Clase 3",
+    "existencia": 10,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0020",
+    "descripcion": "Producto 20",
+    "precio": 18.46,
+    "clasificacion": "Clase 0",
+    "existencia": 39,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0021",
+    "descripcion": "Producto 21",
+    "precio": 35.61,
+    "clasificacion": "Clase 1",
+    "existencia": 52,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0022",
+    "descripcion": "Producto 22",
+    "precio": 54.57,
+    "clasificacion": "Clase 2",
+    "existencia": 22,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0023",
+    "descripcion": "Producto 23",
+    "precio": 40.17,
+    "clasificacion": "Clase 3",
+    "existencia": 19,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0024",
+    "descripcion": "Producto 24",
+    "precio": 18.35,
+    "clasificacion": "Clase 0",
+    "existencia": 40,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0025",
+    "descripcion": "Producto 25",
+    "precio": 33.3,
+    "clasificacion": "Clase 1",
+    "existencia": 15,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0026",
+    "descripcion": "Producto 26",
+    "precio": 44.31,
+    "clasificacion": "Clase 2",
+    "existencia": 52,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0027",
+    "descripcion": "Producto 27",
+    "precio": 18.09,
+    "clasificacion": "Clase 3",
+    "existencia": 25,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0028",
+    "descripcion": "Producto 28",
+    "precio": 36.77,
+    "clasificacion": "Clase 0",
+    "existencia": 42,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0029",
+    "descripcion": "Producto 29",
+    "precio": 19.67,
+    "clasificacion": "Clase 1",
+    "existencia": 41,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0030",
+    "descripcion": "Producto 30",
+    "precio": 39.19,
+    "clasificacion": "Clase 2",
+    "existencia": 41,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0031",
+    "descripcion": "Producto 31",
+    "precio": 52.97,
+    "clasificacion": "Clase 3",
+    "existencia": 52,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0032",
+    "descripcion": "Producto 32",
+    "precio": 34.77,
+    "clasificacion": "Clase 0",
+    "existencia": 28,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0033",
+    "descripcion": "Producto 33",
+    "precio": 10.98,
+    "clasificacion": "Clase 1",
+    "existencia": 31,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0034",
+    "descripcion": "Producto 34",
+    "precio": 21.44,
+    "clasificacion": "Clase 2",
+    "existencia": 50,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0035",
+    "descripcion": "Producto 35",
+    "precio": 56.59,
+    "clasificacion": "Clase 3",
+    "existencia": 6,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0036",
+    "descripcion": "Producto 36",
+    "precio": 11.95,
+    "clasificacion": "Clase 0",
+    "existencia": 26,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0037",
+    "descripcion": "Producto 37",
+    "precio": 26.79,
+    "clasificacion": "Clase 1",
+    "existencia": 35,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0038",
+    "descripcion": "Producto 38",
+    "precio": 10.06,
+    "clasificacion": "Clase 2",
+    "existencia": 5,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0039",
+    "descripcion": "Producto 39",
+    "precio": 30.71,
+    "clasificacion": "Clase 3",
+    "existencia": 9,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0040",
+    "descripcion": "Producto 40",
+    "precio": 57.02,
+    "clasificacion": "Clase 0",
+    "existencia": 43,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0041",
+    "descripcion": "Producto 41",
+    "precio": 34.2,
+    "clasificacion": "Clase 1",
+    "existencia": 17,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0042",
+    "descripcion": "Producto 42",
+    "precio": 11.7,
+    "clasificacion": "Clase 2",
+    "existencia": 8,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0043",
+    "descripcion": "Producto 43",
+    "precio": 20.83,
+    "clasificacion": "Clase 3",
+    "existencia": 35,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0044",
+    "descripcion": "Producto 44",
+    "precio": 39.83,
+    "clasificacion": "Clase 0",
+    "existencia": 17,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0045",
+    "descripcion": "Producto 45",
+    "precio": 24.89,
+    "clasificacion": "Clase 1",
+    "existencia": 44,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0046",
+    "descripcion": "Producto 46",
+    "precio": 31.39,
+    "clasificacion": "Clase 2",
+    "existencia": 45,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0047",
+    "descripcion": "Producto 47",
+    "precio": 28.54,
+    "clasificacion": "Clase 3",
+    "existencia": 33,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0048",
+    "descripcion": "Producto 48",
+    "precio": 25.47,
+    "clasificacion": "Clase 0",
+    "existencia": 16,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0049",
+    "descripcion": "Producto 49",
+    "precio": 57.51,
+    "clasificacion": "Clase 1",
+    "existencia": 29,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0050",
+    "descripcion": "Producto 50",
+    "precio": 12.75,
+    "clasificacion": "Clase 2",
+    "existencia": 34,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0051",
+    "descripcion": "Producto 51",
+    "precio": 57.11,
+    "clasificacion": "Clase 3",
+    "existencia": 33,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0052",
+    "descripcion": "Producto 52",
+    "precio": 11.04,
+    "clasificacion": "Clase 0",
+    "existencia": 29,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0053",
+    "descripcion": "Producto 53",
+    "precio": 55.58,
+    "clasificacion": "Clase 1",
+    "existencia": 5,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0054",
+    "descripcion": "Producto 54",
+    "precio": 17.57,
+    "clasificacion": "Clase 2",
+    "existencia": 14,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0055",
+    "descripcion": "Producto 55",
+    "precio": 55.09,
+    "clasificacion": "Clase 3",
+    "existencia": 54,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0056",
+    "descripcion": "Producto 56",
+    "precio": 34.12,
+    "clasificacion": "Clase 0",
+    "existencia": 6,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0057",
+    "descripcion": "Producto 57",
+    "precio": 22.72,
+    "clasificacion": "Clase 1",
+    "existencia": 15,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0058",
+    "descripcion": "Producto 58",
+    "precio": 54.56,
+    "clasificacion": "Clase 2",
+    "existencia": 36,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0059",
+    "descripcion": "Producto 59",
+    "precio": 38.22,
+    "clasificacion": "Clase 3",
+    "existencia": 32,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0060",
+    "descripcion": "Producto 60",
+    "precio": 39.74,
+    "clasificacion": "Clase 0",
+    "existencia": 45,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0061",
+    "descripcion": "Producto 61",
+    "precio": 35.78,
+    "clasificacion": "Clase 1",
+    "existencia": 25,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0062",
+    "descripcion": "Producto 62",
+    "precio": 52.2,
+    "clasificacion": "Clase 2",
+    "existencia": 19,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0063",
+    "descripcion": "Producto 63",
+    "precio": 20.06,
+    "clasificacion": "Clase 3",
+    "existencia": 43,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0064",
+    "descripcion": "Producto 64",
+    "precio": 24.28,
+    "clasificacion": "Clase 0",
+    "existencia": 12,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0065",
+    "descripcion": "Producto 65",
+    "precio": 36.01,
+    "clasificacion": "Clase 1",
+    "existencia": 10,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0066",
+    "descripcion": "Producto 66",
+    "precio": 59.73,
+    "clasificacion": "Clase 2",
+    "existencia": 39,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0067",
+    "descripcion": "Producto 67",
+    "precio": 43,
+    "clasificacion": "Clase 3",
+    "existencia": 12,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0068",
+    "descripcion": "Producto 68",
+    "precio": 10.55,
+    "clasificacion": "Clase 0",
+    "existencia": 48,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0069",
+    "descripcion": "Producto 69",
+    "precio": 42.42,
+    "clasificacion": "Clase 1",
+    "existencia": 15,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0070",
+    "descripcion": "Producto 70",
+    "precio": 55.19,
+    "clasificacion": "Clase 2",
+    "existencia": 34,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0071",
+    "descripcion": "Producto 71",
+    "precio": 18.03,
+    "clasificacion": "Clase 3",
+    "existencia": 21,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0072",
+    "descripcion": "Producto 72",
+    "precio": 10.78,
+    "clasificacion": "Clase 0",
+    "existencia": 8,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0073",
+    "descripcion": "Producto 73",
+    "precio": 53.82,
+    "clasificacion": "Clase 1",
+    "existencia": 30,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0074",
+    "descripcion": "Producto 74",
+    "precio": 42.75,
+    "clasificacion": "Clase 2",
+    "existencia": 27,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0075",
+    "descripcion": "Producto 75",
+    "precio": 24.65,
+    "clasificacion": "Clase 3",
+    "existencia": 47,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0076",
+    "descripcion": "Producto 76",
+    "precio": 28.03,
+    "clasificacion": "Clase 0",
+    "existencia": 12,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0077",
+    "descripcion": "Producto 77",
+    "precio": 14.38,
+    "clasificacion": "Clase 1",
+    "existencia": 19,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0078",
+    "descripcion": "Producto 78",
+    "precio": 34.55,
+    "clasificacion": "Clase 2",
+    "existencia": 29,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0079",
+    "descripcion": "Producto 79",
+    "precio": 45.71,
+    "clasificacion": "Clase 3",
+    "existencia": 9,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  },
+  {
+    "clave": "0080",
+    "descripcion": "Producto 80",
+    "precio": 26.38,
+    "clasificacion": "Clase 0",
+    "existencia": 42,
+    "existenciaMinima": 5,
+    "existenciaMaxima": 100
+  }
+]
